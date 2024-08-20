@@ -1,0 +1,16 @@
+import 'react-responsive-carousel/lib/styles/carousel.min.css';
+
+<Carousel
+                infiniteLoop
+                useKeyboardArrows
+                autoPlay
+                showArrows={true}
+                showStatus={false}
+                showThumbs={false}
+                dynamicHeight
+             >
+                <div>
+                    <img src="" alt="Slide 1" />
+                </div>
+      
+            </Carousel>
